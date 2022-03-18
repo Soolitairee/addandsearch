@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/addandsearch/static/css/main.d66a7772.css",
+    "main.js": "/addandsearch/static/js/main.0d59c31e.js",
+    "index.html": "/addandsearch/index.html",
+    "main.d66a7772.css.map": "/addandsearch/static/css/main.d66a7772.css.map",
+    "main.0d59c31e.js.map": "/addandsearch/static/js/main.0d59c31e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d66a7772.css",
+    "static/js/main.0d59c31e.js"
+  ]
+}
